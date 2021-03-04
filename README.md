@@ -1,5 +1,9 @@
 # snakeGame
-This is a project that is part of Scrimba's Frontend Developer Career Path.  We are encouraged to make these projects our own, and this is my first attempt at achieving that goal.  I plan to make further additions to the game, like adding high score board, but I wanted to get back to my studies.
+This is a project that is part of Scrimba's Frontend Developer Career Path.  
+
+https://davidrhyne.github.io/snakeGame/
+
+We are encouraged to make these projects our own, and this is my first attempt at achieving that goal.  I plan to make further additions to the game, like adding high score board, but I wanted to get back to my studies.
 
 Here are some of the enhancements:
 * drop down box to pick a gameboard size
